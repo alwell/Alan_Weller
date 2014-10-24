@@ -13,4 +13,5 @@ This is my personal profile page.
 - https://www.scribd.com/alanweller
 - http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
+- http://www.uel.ac.uk/cass/staff/welleralan/
 
