@@ -14,4 +14,7 @@ This is my personal profile page.
 - http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
 - http://www.uel.ac.uk/cass/staff/welleralan/
+- https://www.gitbook.io/@alwell
+- https://github.com/alwell
+- http://alwell.github.io/Web_Site/
 
