@@ -17,4 +17,5 @@ This is my personal profile page.
 - https://www.gitbook.io/@alwell
 - https://github.com/alwell
 - http://alwell.github.io/Web_Site/
-
+- http://www.photoboxgallery.com/alan_weller/photo?photo_id=90704939
+- https://www.linkedin.com/pub/alan-weller/94/2a8/31
