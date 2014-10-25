@@ -11,7 +11,7 @@ http://alwell.github.io/Alan_Weller
 - https://www.diigo.com/list/alwell
 - http://cnx.org/contents/75457e99-93b7-4a5b-ab1d-641f4657aa0a@8.2/Physics_Subject_Knowledge_Enha
 - http://physicsclass.tiddlyspot.com/
-- - https://www.youtube.com/watch?v=c-WT_THnvWU&list=UUWFU7FoWO_uVoITo-eYgNuQ
+- https://www.youtube.com/watch?v=c-WT_THnvWU&list=UUWFU7FoWO_uVoITo-eYgNuQ
 
 ### Photography
 - http://www.photoboxgallery.com/alan_weller/photo?photo_id=90704939
