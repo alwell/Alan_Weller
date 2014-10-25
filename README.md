@@ -18,6 +18,7 @@ http://alwell.github.io/Alan_Weller
 - http://www.zizics.com/Alan_Weller
 
 ### Buddhism
+- http://www.zolag.co.uk (pointing to the address below)
 - http://alwell.github.io/Web_Site/
 - https://www.scribd.com/alanweller
 - http://archive.org/bookmarks/Alan%20Weller
