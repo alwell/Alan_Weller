@@ -1,8 +1,5 @@
 # Alan_Weller
 
-
-This is my personal profile page.
-
 ## My Web Pages:
 
 ### Profile
@@ -18,6 +15,7 @@ http://alwell.github.io/Alan_Weller
 ### Photography
 - http://www.photoboxgallery.com/alan_weller/photo?photo_id=90704939
 - http://linuxphotography.tiddlyspot.com/
+- http://www.zizics.com/Alan_Weller
 
 ### Buddhism
 - http://alwell.github.io/Web_Site/
