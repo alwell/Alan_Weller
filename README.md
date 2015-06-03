@@ -19,6 +19,7 @@ http://alwell.github.io/Alan_Weller
 - http://linuxphotography.tiddlyspot.com/
 - http://www.zizics.com/Alan_Weller
 - http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&assetType=image&p=alan+weller
+- http://www.alamy.com/search/imageresults.aspx?pseudoid={A26F8730-7657-47DD-A3C8-84E858AF5913}&name=Alan+Weller&st=11&mode=0&comp=1
 
 ### Buddhism
 - http://www.zolag.co.uk (pointing to the address below)
