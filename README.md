@@ -9,6 +9,7 @@ http://alwell.github.io/Alan_Weller
 - http://www.uel.ac.uk/cass/staff/welleralan/
 - https://www.linkedin.com/pub/alan-weller/94/2a8/31
 - https://www.diigo.com/list/alwell
+- http://www.nationalstemcentre.org.uk/community/alwell/59477
 - http://cnx.org/contents/75457e99-93b7-4a5b-ab1d-641f4657aa0a@8.2/Physics_Subject_Knowledge_Enha
 - http://physicsclass.tiddlyspot.com/
 - https://www.youtube.com/watch?v=c-WT_THnvWU&list=UUWFU7FoWO_uVoITo-eYgNu
