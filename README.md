@@ -6,19 +6,16 @@
 http://alwell.github.io/Alan_Weller
 
 ### Physics
-- http://www.uel.ac.uk/cass/staff/welleralan/
-- https://www.linkedin.com/pub/alan-weller/94/2a8/31
+
 - https://www.diigo.com/list/alwell
-- http://www.nationalstemcentre.org.uk/community/alwell/59477
 - http://cnx.org/contents/75457e99-93b7-4a5b-ab1d-641f4657aa0a@8.2/Physics_Subject_Knowledge_Enha
 - http://physicsclass.tiddlyspot.com/
 - https://www.youtube.com/watch?v=c-WT_THnvWU&list=UUWFU7FoWO_uVoITo-eYgNu
 - http://www.livebinders.com/play/play?id=779874&present=true
 
 ### Photography
-- http://www.photoboxgallery.com/alan_weller/photo?photo_id=90704939
+
 - http://linuxphotography.tiddlyspot.com/
-- http://www.zizics.com/Alan_Weller
 - http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&assetType=image&p=alan+weller
 - http://www.alamy.com/search/imageresults.aspx?pseudoid={A26F8730-7657-47DD-A3C8-84E858AF5913}&name=Alan+Weller&st=11&mode=0&comp=1
 
