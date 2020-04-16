@@ -25,8 +25,7 @@ http://alwell.github.io/Alan_Weller
 - https://www.scribd.com/alanweller
 - http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
-- https://www.gitbook.io/@alwell
 - https://github.com/alwell
-- http://www.spreaker.com/user/alwell
 - http://alwell.github.io/Decks/
+- https://www.youtube.com/user/AlanWeller/
 
