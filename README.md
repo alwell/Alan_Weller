@@ -40,8 +40,8 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 - https://www.youtube.com/user/AlanWeller/
 
 ### Photography
-- Personal web site [https://alwell.piwigo.com/]{https://alwell.piwigo.com/}
-- Furzedown Photography Project [https://fppg.mypixieset.com/]{https://fppg.mypixieset.com/}
+- Personal web site [https://alwell.piwigo.com/](https://alwell.piwigo.com/)
+- Furzedown Photography Project [https://fppg.mypixieset.com/](https://fppg.mypixieset.com/)
 - http://linuxphotography.tiddlyspot.com/
 - http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&assetType=image&p=alan+weller
 - http://www.alamy.com/search/imageresults.aspx?pseudoid={A26F8730-7657-47DD-A3C8-84E858AF5913}&name=Alan+Weller&st=11&mode=0&comp=1
