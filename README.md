@@ -33,7 +33,6 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 - http://alwell.github.io/Web_Site/
 - My archive [https://archive.org/details/fav-alan_weller](https://archive.org/details/fav-alan_weller)
 - https://www.scribd.com/alanweller
-- http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
 - https://github.com/alwell
 - http://alwell.github.io/Decks/
