@@ -29,8 +29,9 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 ## Web Sites
 
 ### Buddhism
-- http://www.zolag.co.uk (pointing to the address below)
+- Zolag. [http://www.zolag.co.uk]{http://www.zolag.co.uk} (pointing to the address below)
 - http://alwell.github.io/Web_Site/
+- My archive [https://archive.org/details/fav-alan_weller]{https://archive.org/details/fav-alan_weller}
 - https://www.scribd.com/alanweller
 - http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
@@ -39,7 +40,8 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 - https://www.youtube.com/user/AlanWeller/
 
 ### Photography
-
+- Personal web site [https://alwell.piwigo.com/]{https://alwell.piwigo.com/}
+- Furzedown Photography Project [https://fppg.mypixieset.com/]{https://fppg.mypixieset.com/}
 - http://linuxphotography.tiddlyspot.com/
 - http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&assetType=image&p=alan+weller
 - http://www.alamy.com/search/imageresults.aspx?pseudoid={A26F8730-7657-47DD-A3C8-84E858AF5913}&name=Alan+Weller&st=11&mode=0&comp=1
