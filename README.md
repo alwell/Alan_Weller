@@ -29,9 +29,9 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 ## Web Sites
 
 ### Buddhism
-- Zolag. [http://www.zolag.co.uk]{http://www.zolag.co.uk} (pointing to the address below)
+- Zolag. [http://www.zolag.co.uk](http://www.zolag.co.uk) (pointing to the address below)
 - http://alwell.github.io/Web_Site/
-- My archive [https://archive.org/details/fav-alan_weller]{https://archive.org/details/fav-alan_weller}
+- My archive [https://archive.org/details/fav-alan_weller](https://archive.org/details/fav-alan_weller)
 - https://www.scribd.com/alanweller
 - http://archive.org/bookmarks/Alan%20Weller
 - https://openlibrary.org/people/alanweller
