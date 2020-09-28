@@ -37,10 +37,14 @@ During his time at UEL he gave 3 presentations on two topics to research confere
 - https://github.com/alwell
 - http://alwell.github.io/Decks/
 - https://www.youtube.com/user/AlanWeller/
+- https://www.quora.com/profile/Alan-Weller-7
+- [http://hdl.handle.net/10552/5513](http://roar.uel.ac.uk/5513/)
+- [http://hdl.handle.net/10552/7234](http://hdl.handle.net/10552/7234)
 
 ### Photography
 - Personal web site [https://alwell.piwigo.com/](https://alwell.piwigo.com/)
 - Furzedown Photography Project [https://fppg.mypixieset.com/](https://fppg.mypixieset.com/)
+- Instagram #tooting_photos
 - http://linuxphotography.tiddlyspot.com/
 - http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&assetType=image&p=alan+weller
 - http://www.alamy.com/search/imageresults.aspx?pseudoid={A26F8730-7657-47DD-A3C8-84E858AF5913}&name=Alan+Weller&st=11&mode=0&comp=1
